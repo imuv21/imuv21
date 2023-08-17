@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar7482&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar7482" /> </p>
 
-- 🌱 I’m currently learning **JAVA, PHP**
+How to reach me : uttam.verma.developer@gmail.com or *you can always send a Three-Eyed Raven*
 
-- 💬 Ask me about **JAVA, PHP, JavaScript, HTML, CSS, BOOTSTRP**
-
-- 📫 How to reach me **shubhamkumar24023@gmail.com**
-
-- 📄 About my experiences I have done 3 months enternship
+Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a herf="https://www.w3schools.com/java/default.asp"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" alt="c" width="45" height="45"> </a>
