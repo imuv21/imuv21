@@ -1,4 +1,4 @@
-![logo]([https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png](https://image-cdn.neatoshop.com/styleimg/39289/none/lightturquoise/default/281175-20.jpg))
+![logo](https://image-cdn.neatoshop.com/styleimg/39289/none/lightturquoise/default/281175-20.jpg)
 <h1 align="center">Hello there, I'm Uttam Verma as you can see already.</h1>
 <h3 align="center"> I'm currently focusing on JavaScript and React.js and the popular frameworks related to them. I like Firebase idk why. Recently I've started learning Node.js also. </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
