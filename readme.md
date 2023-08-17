@@ -3,7 +3,7 @@
 <h3 align="center"> I'm currently focusing on JavaScript and React.js and the popular frameworks related to them. I like Firebase idk why. Recently I've started learning Node.js also. </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar7482&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imuv21&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 How to reach me : uttam.verma.developer@gmail.com or *you can always send a Three-Eyed Raven*
 
@@ -33,8 +33,8 @@ Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.g
 <a herf="https://www.facebook.com/uttam.uv.10"><img src="https://1000logos.net/wp-content/uploads/2017/02/Facebook-Logosu.png" alt="GitHub" height='45'> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkumar7482&show_icons=true&locale=en&layout=compact"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuv21&show_icons=true&locale=en&layout=compact"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkumar7482&show_icons=true&locale=en"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imuv21&show_icons=true&locale=en"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar7482&"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imuv21&"  /></p>
