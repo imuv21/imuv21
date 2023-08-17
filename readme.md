@@ -8,7 +8,7 @@
 How to reach me : uttam.verma.developer@gmail.com or *you can always send a Three-Eyed Raven*
 
 Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate. 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages/Frameworks/Library :</h3>
 <p align="left"> 
  <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
 <a herf="https://www.w3schools.com/js/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="45" height="45"> </a>
