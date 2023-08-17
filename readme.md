@@ -28,9 +28,10 @@ Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.g
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a herf="https://www.linkedin.com/in/imuv21"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="GitHub" height='45'> </a>
-<a herf="https://instagram.com/imuv21"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="GitHub" height='45'> </a>
-<a herf="https://www.facebook.com/uttam.uv.10"><img src="https://1000logos.net/wp-content/uploads/2017/02/Facebook-Logosu.png" alt="GitHub" height='45'> </a>
+ <a herf="https://www.linkedin.com/in/imuv21"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-256.png" alt="GitHub" height='45'> </a>
+ <a herf="https://instagram.com/imuv21"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-256.png" alt="GitHub" height='45'> </a>
+ <a herf="https://www.facebook.com/uttam.uv.10"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-256.png" alt="GitHub" height='45'> </a>
+ <a herf="https://www.twitter.com/imuv21"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2421/512/Twitter-256.png" alt="GitHub" height='45'> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuv21&show_icons=true&locale=en&layout=compact"  /></p>
