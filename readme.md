@@ -1,6 +1,6 @@
 ![logo](https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png)
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center"> I am pursuing BCA. Currently, I am in 3rd year student. </h3>
+<h1 align="center">Hello there, I'm Uttam Verma as you can see already.</h1>
+<h3 align="center"> I'm currently focusing on JavaScript and React.js and the popular frameworks related to them. </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar7482&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar7482" /> </p>
