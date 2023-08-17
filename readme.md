@@ -23,16 +23,6 @@ Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.g
 <a herf="https://www.w3schools.com/css/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"> </a>
  </p>
- 
- 
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a herf="https://www.linkedin.com/in/imuv21"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png"  height='45'> </a>
- <a herf="https://instagram.com/imuv21"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"  height='45'> </a>
- <a herf="https://www.facebook.com/uttam.uv.10"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"  height='45'> </a>
- <a herf="https://www.twitter.com/imuv21"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-256.png"  height='45'> </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuv21&show_icons=true&locale=en&layout=compact"  /></p>
 
