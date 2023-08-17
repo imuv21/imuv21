@@ -12,6 +12,7 @@ Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.g
 <p align="left"> 
  <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
 <a herf="https://www.w3schools.com/js/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="45" height="45"> </a>
+ <a herf="https://www.w3schools.com/react/default.asp" ><img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" width="45" height="45" /></a>
 <a herf="https://www.w3schools.com/html/default.asp"><img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" alt="html" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/css/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"> </a>
