@@ -7,14 +7,11 @@
 
 How to reach me : uttam.verma.developer@gmail.com or *you can always send a Three-Eyed Raven*
 
-Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate.
+Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate. 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a herf="https://www.w3schools.com/java/default.asp"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" alt="c" width="45" height="45"> </a>
-<a herf="https://www.w3schools.com/php/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="java" width="45" height="45"> </a>
+ <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png"> </a>
 <a herf="https://www.w3schools.com/js/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="45" height="45"> </a>
-<a herf="https://www.w3schools.com/cpp/default.asp"><img src="https://cdn3d.iconscout.com/3d/free/thumb/c-plus-plus-5728486-4781250.png" alt="c++" width="45" height="40"> </a>
-<a herf="https://www.w3schools.com/c/index.php"><img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/html/default.asp"><img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" alt="html" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/css/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css" width="45" height="45"> </a>
 <a herf="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"> </a>
