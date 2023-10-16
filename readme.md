@@ -12,7 +12,6 @@ Experience : I have done 4 months internship at UXDLAB. <a href="https://drive.g
 <p align="left"> 
  <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
 <a herf="https://www.w3schools.com/js/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="45" height="45"> </a>
- <a herf="https://www.w3schools.com/react/default.asp" ><img src="pngwing.com.png" width="45" height="45" /></a>
  <a herf="https://www.w3schools.com/jquery/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" width="45" height="45" /></a>
  <a herf="https://www.w3schools.com/next/default.asp"><img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" width="45" height="45" /></a>
 </p>
