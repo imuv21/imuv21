@@ -7,7 +7,8 @@
 
 How to reach me : uttam.verma.developer@gmail.com or imuv21@gmail.com or *you can always send a Three-Eyed Raven*
 
-Experience : I have 8 months working experience. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate. Check out my <a href="https://www.replit.com/@imuv21">Replit</a> and <a href="https://www.w3profile.com/imuv21">W3 Profile</a> and this is my <a href="https://drive.google.com/file/d/19KRpYzdQbu1UUHM8ZcxKD0R5Q9GRf0k2/view?usp=sharing">Resume</a>.
+Experience : I have 8 months working experience. <a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate. Check out my <a href="https://www.replit.com/@imuv21">Replit</a> and <a href="https://www.w3profile.com/imuv21">W3 Profile</a> and this is my 
+<a href="https://drive.google.com/file/d/1xjbYlF4ybhCRkTSjBCt-_gvIml4veBf-/view?usp=drive_link">Resume</a>.
 <h3 align="left">Languages/Frameworks/Library :</h3>
 <p align="left"> 
  <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
