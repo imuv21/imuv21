@@ -1,6 +1,6 @@
 <img src="jons.jpg" />
 <h1 align="center">Hello there, I'm Uttam Verma.</h1>
-<h3 align="center"> I'm currently focusing on React.js, Node.js and the popular frameworks related to them like Express.js and Next.js. I am a beginner in Node.js. Usually I use MongoDB or Firebase when I need a fast database to work with. </h3>
+<h3 align="center">Focusing on MERN Stack</h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuv21&label=Profile%20views&color=0e75b6&style=flat" /> </p>
