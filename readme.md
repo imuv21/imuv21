@@ -7,9 +7,8 @@
 
 How to reach me : uttam.verma.developer@gmail.com or imuv21@gmail.com or *you can always send a Three-Eyed Raven*
 
-About me : MERN Stack Developer with 1 year and 8 months of hands-on experience building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript. Passionate about writing clean code, solving real-world problems, and continuously leveling up as a full-stack developer. Always open to learning, collaboration, and building impactful products. 
-<a href="https://drive.google.com/file/d/1-2leV5D_c7L5QOi-LkOUlShNMZhjaArP/view?usp=drive_link" >Click here</a> to see the certificate. Check out my <a href="https://www.replit.com/@imuv21">Replit</a> and <a href="https://www.geeksforgeeks.org/user/imuv8eau"> Geeks For Geeks </a> and this is my 
-<a href="https://drive.google.com/file/d/1gMWWggSAWQIZMpmejFPr_48iARzeOHtV/view?usp=sharing">Resume</a>.
+About me : MERN Stack Developer with 1 year and 8 months of hands-on experience building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript. Passionate about writing clean code, solving real-world problems, and continuously leveling up as a full-stack developer. Always open to learning, collaboration, and building impactful products.
+
 <h3 align="left">Languages/Frameworks/Library :</h3>
 <p align="left"> 
  <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
