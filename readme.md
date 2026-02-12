@@ -7,7 +7,7 @@
 
 How to reach me : uttam.verma.developer@gmail.com or imuv21@gmail.com or *you can always send a Three-Eyed Raven*
 
-About me : MERN Stack Developer with 1 year and 8 months of hands-on experience building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript. Passionate about writing clean code, solving real-world problems, and continuously leveling up as a full-stack developer. Always open to learning, collaboration, and building impactful products.
+About me : MERN Stack Developer with 2 years and 6 months of hands-on experience building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript. Passionate about writing clean code, solving real-world problems, and continuously leveling up as a full-stack developer. Always open to learning, collaboration, and building impactful products.
 
 <h3 align="left">Languages/Frameworks/Library :</h3>
 <p align="left"> 
