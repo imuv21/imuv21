@@ -5,27 +5,49 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuv21&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-How to reach me : uttam.verma.developer@gmail.com or imuv21@gmail.com or *you can always send a Three-Eyed Raven*
+### Send Word
 
-About me : MERN Stack Developer with 2 years and 6 months of hands-on experience building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript. Passionate about writing clean code, solving real-world problems, and continuously leveling up as a full-stack developer. Always open to learning, collaboration, and building impactful products.
+Should thou wish to speak, send a raven to:
+uttam.verma.developer@gmail.com  
+or  
+imuv21@gmail.com  
 
-<h3 align="left">Languages/Frameworks/Library :</h3>
+*Whispers carried by the Three-Eyed Raven are also received.*
+
+---
+
+### Of My Craft
+
+For over two years and six moons, I have forged and maintained scalable web applications using the arts of React.js, Node.js, Express.js, MongoDB, and JavaScript.
+
+I write code not merely to function, but to endure.
+
+I value clarity over clutter, structure over chaos, and performance over illusion. Each system I build is shaped with care. APIs tempered like Valyrian steel, interfaces crafted to serve both speed and simplicity.
+
+The realm of full-stack engineering is vast, and I walk it with curiosity, discipline, and an unending hunger to sharpen my craft.
+
+---
+
+<h3 align="left">Arsenal of the Realm</h3>
+
 <p align="left"> 
- <a herf="https://www.w3schools.com/react/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" width="45" height="45" > </a>
-<a herf="https://www.w3schools.com/js/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="45" height="45"> </a>
- <a herf="https://www.w3schools.com/jquery/default.asp"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" width="45" height="45" /></a>
- <a herf="https://www.w3schools.com/next/default.asp"><img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" width="45" height="45" /></a>
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882312/Github%20%28imuv21%29/icons8-node-js-100_xjqnyf.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882313/Github%20%28imuv21%29/icons8-nextjs-100_lqwbdl.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882312/Github%20%28imuv21%29/icons8-react-js-100_xxbkp1.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882313/Github%20%28imuv21%29/icons8-typescript-100_n0hffa.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882342/Github%20%28imuv21%29/icons8-javascript-100_iknhip.png" width="45" height="45" >
 </p>
- <p>
- <a herf="https://www.w3schools.com/node/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" width="45" height="45" /></a>
-  <a herf="https://www.w3schools.com/firebase/default.asp"><img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-256.png" width="45" height="45" /></a>
-<a herf="https://www.w3schools.com/html/default.asp"><img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" alt="html" width="45" height="45"> </a>
-<a herf="https://www.w3schools.com/css/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css" width="45" height="45"> </a>
-<a herf="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"> </a>
- </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuv21&show_icons=true&locale=en&layout=compact"  /></p>
+<p align="left"> 
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770883172/Github%20%28imuv21%29/icons8-express-js-100_xtlszs.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882312/Github%20%28imuv21%29/icons8-mongo-db-100_ifidks.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882313/Github%20%28imuv21%29/icons8-tailwind-css-100_yy9ww1.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882340/Github%20%28imuv21%29/icons8-aws-100_ucsvvu.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882340/Github%20%28imuv21%29/icons8-docker-100_jsmeud.png" width="45" height="45" >
+<img src="https://res.cloudinary.com/dfsohhjfo/image/upload/v1770882313/Github%20%28imuv21%29/icons8-redis-100_bou7rc.png" width="45" height="45" >
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imuv21&show_icons=true&locale=en"  /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imuv21&"  /></p>
+---
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imuv21&"  />
+</p>
